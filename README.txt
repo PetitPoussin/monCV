@@ -1,1 +1,1 @@
-C'est ma premiere page web.
+Grace à ce tout petit projet de création d'une page web sous forme de CV, j'apprends à coder en HTML.
